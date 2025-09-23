@@ -73,7 +73,7 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/yemariamlij" target="_blank">
+<a href="https://buymeacoffee.com/amareyigzaw" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" 
        alt="Buy Me A Coffee" height="60px" width="217px">
 </a>
