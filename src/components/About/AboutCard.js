@@ -8,16 +8,17 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Amare Yigzaw </span>
-            from <span className="purple"> Addis Abeba, Ethiopia.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Bsc of software engineering at Wachemo Univertisy
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
-          </p>
+              Hi Everyone, I am <span className="purple">Amare Yigzaw</span> from{" "}
+              <span className="purple">Addis Abeba, Ethiopia.</span>
+              <br />
+              I have completed my BSc in Software Engineering at Wachemo University.
+              <br />
+              I am passionate about software development, building projects, and learning new technologies.
+              <br />
+              <br />
+              Apart from coding, some other activities that I love to do include exploring tech trends, reading, and problem-solving.
+            </p>
+
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games

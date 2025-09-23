@@ -28,7 +28,7 @@ function Projects() {
             <ProjectCard
               imgPath={shoeApp}
               isBlog={false}
-              title="Online Shoes Web App"
+              title={<span className="purple" title="Online Shoes Web App">Online Shoes Web App</span>}
               description="Developed a fully functional online shoes store
                web application using HTML, CSS, JavaScript, and PHP. 
                Users can browse products, view details, add items to a
@@ -45,7 +45,7 @@ function Projects() {
             <ProjectCard
               imgPath={prisonSystem}
               isBlog={false}
-              title="Prison Information Management System"
+              title={<span className="purple" title="Prison Information Management System">Prison Information Management System</span>}
               description="Developed a comprehensive Prison Information Management 
               System using Laravel Blade. The system allows administrators and
                staff to efficiently manage prison data, including inmate records,
@@ -61,7 +61,7 @@ function Projects() {
             <ProjectCard
               imgPath={smartHome}
               isBlog={false}
-              title="Smart Home System"
+              title={<span className="purple" title="Smart Home System">Smart Home System</span>}
               description="Developed a Smart Home System using embedded systems to
                automate and control home appliances. The system allows users to 
                remotely manage lights, fans, and other devices through a 
@@ -77,7 +77,7 @@ function Projects() {
             <ProjectCard
               imgPath={quizApp}
               isBlog={false}
-              title="Online Quiz App"
+              title={<span className="purple" title="Online Quiz App">Online Quiz App</span>}
               description="Developed an Online Quiz Application using Java GUI
                for the front-end and Java Servlets for server-side processing. 
                Users can take quizzes, view scores, and track performance. 
@@ -93,7 +93,7 @@ function Projects() {
             <ProjectCard
               imgPath={budgetApp}
               isBlog={false}
-              title="Budget Tracking Management System"
+              title={<span className="purple" title="Budget Tracking Management System">Budget Tracking Management System</span>}
               description="Developed a Budget Tracking Management System 
               using React.js for the front-end, Node.js and Express for the
                back-end, and MongoDB for the database. Users can manage income 
@@ -109,7 +109,7 @@ function Projects() {
             <ProjectCard
               imgPath={webScraping}
               isBlog={false}
-              title="Web Scraping Project"
+              title={<span className="purple" title="Web Scraping Project">Web Scraping Project</span>}
               description="Developed a Web Scraping application using Python 
               and BeautifulSoup to extract and process data from websites
                efficiently. Implemented parsing techniques to navigate HTML 
