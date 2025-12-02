@@ -11,7 +11,8 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Amare Yigzaw </span>
             from <span className="purple"> Addis Abeba, Ethiopia.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a Customer Service Consultant at <span className="red">
+              Red Cloud ICT Solution.</span>
             <br />
             I have completed Bsc of software engineering at Wachemo Univertisy
             <br />
