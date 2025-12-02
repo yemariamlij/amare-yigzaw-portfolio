@@ -6,6 +6,7 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+   AiFillFacebook,
 } from "react-icons/ai";
 import { FaLinkedinIn, FaTelegramPlane } from "react-icons/fa"; // Added Telegram
 
@@ -114,6 +115,16 @@ function Home2() {
                   <FaTelegramPlane />
                 </a>
               </li>
+               <li className="social-icons">
+                            <a
+                              href="https://www.facebook.com/amare.yigzaw.35"
+                              style={{ color: "white" }}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <AiFillFacebook />
+                            </a>
+                          </li>
             </ul>
           </Col>
         </Row>
