@@ -11,13 +11,17 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Amare Yigzaw </span>
             from <span className="purple"> Addis Abeba, Ethiopia.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Bsc of software engineering at Wachemo Univertisy
+            I am currently employed as a Customer Service Techniqual Support at <br />
+            <span style={{ color: "red", fontWeight: "600" }}>
+              Red Cloud ICT Solution
+            </span><br />
+
+            I have completed Bsc of software engineering at Wachemo University
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
+
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games

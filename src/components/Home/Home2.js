@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> React.js, Node.js Javascript and Vue.js. </b>
               </i>
               <br />
               <br />
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/yemariamlij/"
+                  href="https://www.linkedin.com/in/amare-yigzaw-467915392"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -107,7 +107,6 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://t.me/Software_e" // Replace with your Telegram username
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
